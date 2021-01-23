@@ -1,0 +1,9 @@
+(c) 2021 Sam Caldwell.  All Rights Reserved.
+
+This code is an example for Champlain College CMIT-135-40A.
+If you are a Champlain College student you may read this code,
+dissect this code, learn from this code and play with this code.
+But you may not copy this code for purposes of submitting it to
+any class. You are encouraged to use this like I used programs
+in the past to ready and study and learn and go forth to build
+your own stuff.
