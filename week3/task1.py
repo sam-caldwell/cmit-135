@@ -11,6 +11,7 @@ while age < 18:
         age=int(input("Enter your age: "))
         if age < 18:
             print("You must be 18 to vote.")
+            # But in Texas we can send you to prison at 17...interesting fact.
         else:
             print("You are of voting age.")
     except ValueError:
