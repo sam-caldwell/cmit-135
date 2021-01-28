@@ -2,6 +2,8 @@
 """
     Week3 assignment, task 3
     (c) 2021 Sam Caldwell.  All Rights Reserved
+
+    (With error messages written if R. Lee Ermey had been a software engineer)
 """
 def enter_number():
     while True:

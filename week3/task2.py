@@ -2,6 +2,8 @@
 """
     Week3 assignment, task 2
     (c) 2021 Sam Caldwell.  All Rights Reserved
+
+    (With added messages quoting things my dad might (did) say.)
 """
 scale = {"F": 60,
          "D-": 63,
