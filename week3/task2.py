@@ -18,19 +18,27 @@ scale = {"F": 60,
          "A-": 93}
 
 msg = {
-    "F":"Boy, F is for failure. Do you like pumping gas? --Sam Caldwell, Sr.",
-    "D-": "A 'D-'? What happened? Couldn't get a solid D?  --Sam Caldwell, Sr.",
-    "D": "A 'D'.  You Drilling for oil with this grade?  --Sam Caldwell, Sr.",
+    "F":"Boy, F is for failure. Do you like pumping gas?  "
+        "--Sam Caldwell, Sr.",
+    "D-": "A 'D-'? What happened? Couldn't get a solid D?  "
+          "--Sam Caldwell, Sr.",
+    "D": "A 'D'.  You Drilling for oil with this grade?  "
+         "--Sam Caldwell, Sr.",
     "D+": "D+ is still a d, boy.  --Sam Caldwell, Sr.",
     "C-": "Couldn't get a real C?  --Sam Caldwell, Sr.",
-    "C": "C may be passing at A&M but not here.  --Sam Caldwell, Sr.",
+    "C": "C may be passing at A&M but not here.  "
+         "--Sam Caldwell, Sr.",
     "C+": "Try harder, boy.  --Sam Caldwell, Sr.",
-    "B-": "Well, I could always send you to A&M. -- Sam Caldwell,Sr.",
+    "B-": "Well, I could always send you to A&M. "
+          "-- Sam Caldwell,Sr.",
     "B": "Boy, I know you tried hard.  "
-         "But trying doesn't count.   --Sam Caldwell, Sr.",
-    "B+": "You got this from your mother's side.  --Sam Caldwell, Sr.",
+         "But trying doesn't count.   "
+         "--Sam Caldwell, Sr.",
+    "B+": "You got this from your mother's side.  "
+          "--Sam Caldwell, Sr.",
     "A-": "Almost counts in horseshoes and hand grenades.  "
-          "Was this class in either of those subjects?  --Sam Caldwell, Sr.",
+          "Was this class in either of those subjects?  "
+          "--Sam Caldwell, Sr.",
     "A": "You only got one A on this assignment? --Sam Caldwell Sr."
 }
 inp = ""
