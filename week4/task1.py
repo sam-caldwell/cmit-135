@@ -20,6 +20,6 @@ while n>=0:
 print("done")
 
 print("countdown loop with for...loop")
-for n in range(10,0,-1):
+for n in range(10,-1,-1):
     print(n)
 print("done")
